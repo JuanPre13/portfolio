@@ -146,5 +146,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: '/juanpre13.github.io/portfolio',
+  pathPrefix: '/portfolio',
 };
